@@ -1,1 +1,1 @@
-# Fr0ct01
+Known Bugs/Defects: The fractal drawing sometimes gets cut off when the Canvas size is too small.
